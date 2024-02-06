@@ -19,7 +19,8 @@ issue 3 : ![image](https://github.com/Meleksebri/images/assets/91430760/6f1a356e
 milestone : ![image](https://github.com/Meleksebri/images/assets/91430760/7ba9010b-1936-444a-a52e-5a211900a39c)
 
 
-pr1 : ![image](https://github.com/Meleksebri/images/assets/91430760/1f2f7cae-88b3-4df9-9282-5716e397a7c8)
+pr1 : ![image](https://github.com/Meleksebri/images/assets/91430760/5a0625ae-ed2b-4c20-bfd5-a56db36b0f48)
+
 
 
 pr2 : ![image](https://github.com/Meleksebri/images/assets/91430760/8b46c4ea-cb72-4dd4-8102-72d172f85741)
